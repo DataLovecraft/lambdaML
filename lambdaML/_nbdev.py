@@ -2,9 +2,19 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"Vector": "00_util.ipynb",
+         "LabeledPoint": "00_util.ipynb",
+         "dot": "00_util.ipynb",
+         "sum_of_squares": "00_util.ipynb",
+         "magnitude": "00_util.ipynb",
+         "distance": "00_util.ipynb",
+         "euclidean_distance": "00_util.ipynb",
+         "X": "00_util.ipynb",
+         "split_data": "00_util.ipynb",
+         "KNN": "01_knn.ipynb"}
 
-modules = []
+modules = ["util.py",
+           "knn.py"]
 
 doc_url = "https://DataLovecraft.github.io/lambdaML/"
 
