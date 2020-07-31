@@ -8,7 +8,7 @@ index = {"Vector": "00_util.ipynb",
          "sum_of_squares": "00_util.ipynb",
          "magnitude": "00_util.ipynb",
          "distance": "00_util.ipynb",
-         "euclidean_distance": "00_util.ipynb",
+         "euclidean_distance": "01_knn.ipynb",
          "X": "00_util.ipynb",
          "split_data": "00_util.ipynb",
          "KNN": "01_knn.ipynb"}
